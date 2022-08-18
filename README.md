@@ -11,7 +11,7 @@ I am a Full-stack Web Developer who is exploring web3 and Cloud :cloud: while fa
  
  :books: I want to learn ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) and <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Web3 project **Doc App**.
+ 👯 I’m looking to collaborate for a **Web3 project **.
  
 
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
@@ -40,7 +40,7 @@ I am a Full-stack Web Developer who is exploring web3 and Cloud :cloud: while fa
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prynsh7&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prynsh7&theme=radical&&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
